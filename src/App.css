@@ -1,0 +1,30 @@
+.header{
+    display: flex;
+    background-color: #DDDEE1;
+    color: #578787;
+    padding: 16px;
+    margin: 0;
+    color: #353A46;
+    font-family: 'Source Code Pro', sans-serif;
+    font-size: 25px;
+    line-height: 45px;
+}
+.chart {
+  display: flex;
+  justify-content: center;
+ 
+}
+.footer {
+  display: flex;
+  background-color: #DDDEE1;
+  align-items: center;
+  padding: 16px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
