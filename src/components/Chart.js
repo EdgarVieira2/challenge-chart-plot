@@ -1,6 +1,8 @@
 import React from "react";
 import ReactApexChart from "react-apexcharts";
 
+//I chose apexchart because it was the one that best suited my project
+
 function LineChart() {
   const series = [
     {
@@ -36,6 +38,9 @@ function LineChart() {
       data: [0.9,1.2],
     },
   ];
+  
+  //I put random Date to complete the graph
+  
   const options = {
     dataLabels: {
       enabled: false,
